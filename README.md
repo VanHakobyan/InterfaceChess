@@ -6,4 +6,14 @@
 ![IRook](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlqj5kdHhS85kHMOBcJQfbsVCHCf26g5qLlvJPEhF8J6E7eXAb) =
 ![IQueen](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgnwszCgX3Crsd6d6ve1IjExwOvnn4KEZP8DCVuL1HkLEVHPby)
 
-The combination of motility of the bishop and the rook in Chess is an ideal example of interface's inheritence.
+### The combination of motility of the bishop and the rook in Chess is an ideal example of interface's inheritence.
+
+```c#
+interface IQueen:IBishop,IRook
+{
+    //distanceuUlimited
+    //Queen moves horizontal, vertical and diagonally
+    //IQueen=IBishop+IRook
+
+}
+```
