@@ -1,4 +1,4 @@
-<h4><centre>:earth_americas: Interface Chess Inheritance  :earth_americas:</centre></h4>
+<h4><center>:earth_americas: Interface Chess Inheritance  :earth_americas:</center></h4>
 
 
 <p align="center">
