@@ -1,9 +1,7 @@
 <h4><p align="center">:earth_americas: Interface Chess Inheritance  :earth_americas:</p></h4>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/13bNeFeyPnCycM/giphy.gif">
-</p>
+<p align="center"><img src="https://media.giphy.com/media/13bNeFeyPnCycM/giphy.gif"></p>
 <br>
 <br>
 
